@@ -18,10 +18,46 @@
 
 ### 🧰 Tech Stack
 
-**Languages:** Python, JavaScript, PHP, SQL, R, Bash  
-**AI & ML:** ML/DL, NLP, SHAP, PyTorch, TensorFlow, scikit-learn  
-**Data Engineering:** Docker, PostgreSQL, Web Scraping, ETL Pipelines, Nginx, Linux  
-**Web Dev:** React, Next.js, Django, FastAPI, WordPress, TailwindCSS, Bootstrap  
+#### 🐍 Languages & Scripting
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)
+
+---
+
+#### 🧠 AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/-ML/DL-333333?style=flat&logo=pytorch)
+![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=openai)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn)
+![SHAP](https://img.shields.io/badge/-SHAP-333333?style=flat&logo=python)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-333333?style=flat&logo=opencv)
+
+---
+
+#### 🗄️ Data Engineering & Infrastructure
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-333333?style=flat&logo=beautifulsoup)
+![ETL Pipelines](https://img.shields.io/badge/-ETL%20Pipelines-333333?style=flat&logo=airflow)
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+
+---
+
+#### 🌐 Web & Product Development
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+
 
 ---
 
