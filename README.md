@@ -68,7 +68,9 @@
 - 📹 [**Live Detect**](https://github.com/mahdi-taghi/LiveDetect) — Real-time face detection & alerting system  
 - 📲 [**Currency Scraper Bot**](https://github.com/mahdi-taghi/currency-monitor) — Telegram bot for real-time exchange tracking  
 - 🧑‍🏫 [**Face Attendance App**](https://github.com/mahdi-taghi/face-attendance-app) — Face recognition attendance system  
-- 🛰️ [**Server Pulse Bot**](https://github.com/mahdi-taghi/server_pulse_telegram_bot) — Server health monitor via Telegram  
+- 🛰️ [**Server Pulse Bot**](https://github.com/mahdi-taghi/server_pulse_telegram_bot) — Server health monitor via Telegram
+- 🔐 [**PyPass**](https://github.com/mahdi-taghi/PyPass) — Simple and secure password generator built with Python  
+
 
 ---
 
