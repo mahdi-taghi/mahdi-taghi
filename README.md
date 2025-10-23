@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Mahdi Taghi</h1>
 
 <p align="center">
-  🚀 <b>AI Engineer</b> · 🧠 <b>Data Scientist</b> · 💡 <b>Creative Coder</b>
+  🚀 <b>AI Engineer</b> · 🧠 <b>Data Scientist</b> · 💡 <b>Fullstack Developer</b>
 </p>
 
 ---
@@ -72,21 +72,6 @@
 
 ---
 
-### 📜 Certifications
-
-- Data Analysis & Machine Learning — Mojtama Fani Tehran  
-- Deep Learning — Mojtama Fani Tehran  
-- Computer Vision & Image Processing — Mojtama Fani Tehran  
-- Programming with Python — Mojtama Fani Tehran  
-
----
-
-### 🏆 Honors & Awards
-
-- 🥉 **3rd Place** — RoboCup Asia-Pacific (FIRA), Kish Island  
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -98,11 +83,6 @@
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahdi-taghi)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pyinsight)  
-[![Website](https://img.shields.io/badge/-PyInsight-black?style=flat&logo=google-chrome)](https://py-insight.ir)  
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/mahdi-taghi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahdi-taghi)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pyinsight)  [![Website](https://img.shields.io/badge/-PyInsight-black?style=flat&logo=google-chrome)](https://py-insight.ir)  
 
----
 
-⭐ **“Turning data into intelligence — and intelligence into impact.”**
